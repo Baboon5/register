@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "Baboon5",
+    "email": "2394889495@qq.com"
+  },
+  "records": {
+    "CNAME": "devfile.cn",
+    "api": {
+      "CNAME": "baboon.2394889495.workers.dev"
+    }
+  },
+  "proxied": true
+}
